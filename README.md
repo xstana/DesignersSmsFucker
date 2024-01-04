@@ -13,3 +13,10 @@
 
 <br>
 İtlik puştluk için kullanmayınız eğitim içindir . <br>
+
+
+
+<br>
+Windows ve linuxta python kurulu olmalıdır.
+<br>
+telefonda kullanım için pydroid3 uygundur. Release kısmından indirip açabilirsiniz.
